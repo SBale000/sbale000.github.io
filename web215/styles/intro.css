@@ -1,0 +1,36 @@
+body {
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	color: white;
+	background: linear-gradient(90deg, SteelBlue 0%, MidnightBlue 85%);	
+}
+
+#caption {
+	font-size: 14px;
+	font-style: italic;
+}
+
+li {
+	padding: 5px;
+	position: relative;
+	left: 0;
+}
+
+span.li_header {
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+h3 {
+	color: yellow;
+}
+
+a {
+	color:thistle;		
+}
+a:visited {
+	color:thistle;
+}
