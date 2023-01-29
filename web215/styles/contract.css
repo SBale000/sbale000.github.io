@@ -1,0 +1,50 @@
+	html {}
+	
+	body {
+		font-family: Verdana, sans-serif;
+		font-size: 18px;
+		color: GhostWhite;
+		text-shadow: -1px 0 0 black, 0 1px 0 black, 1px 0 0 black, 0 -1px 0 black;
+		background-color: Dimgray;
+	}
+	
+	a:link, a:visited {
+		color: LightPink;
+		text-decoration: none;
+		text-shadow: none;
+	}
+	
+	a:hover{
+		color: LemonChiffon;
+	}
+		
+	.em {
+		font-style: italic;
+		font-family: Garamond;
+	}
+		
+	#valList li {	
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		position: absolute;
+		top: 0;	
+	}
+	
+	#valList li, #valList a {
+		height: 61px;
+		display: block;		
+	}
+
+	#css {
+		left: 0px;
+		width: 44px;
+		background: url('css3_html5_logo_combined.png');		
+	}
+	
+	#html {
+		left: 44px;
+		width: 44px;
+		background: url('css3_html5_logo_combined.png');
+	}
+	
