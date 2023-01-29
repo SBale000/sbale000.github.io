@@ -28,9 +28,10 @@ h3 {
 	color: yellow;
 }
 
-a {
-	color:thistle;		
+a, a:link, a:visited {
+	color:Gold;
+	font-weight: bold;
 }
-a:visited {
-	color:thistle;
-}
+
+
+	
