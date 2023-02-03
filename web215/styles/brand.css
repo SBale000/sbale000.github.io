@@ -23,6 +23,19 @@ div#otherBackground {
 	padding: 2% 2% 2% 2%;
 	overflow: auto;
 	position: relative;
-	min
+	color: LemonChiffon;
+	
+}
+
+.brandUse {
+	
+	padding: 0% 0% 0% 0%;
+	margin: 0% 0% 0% 0%;
+
+}
+h4.brandUse {
+	font-style: italic;
+	font-size: 19px;
+
 	
 }
