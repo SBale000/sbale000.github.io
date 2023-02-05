@@ -70,7 +70,7 @@ h3 {
 	color: LemonChiffon;
 }
 
-a, a:link, a:visited, span#links, nav {
+a, a:link, a:visited, span.links, nav {
 	color:LemonChiffon;
 	font-weight: bold;
 	padding: 0% 0% 0% 0%; 

@@ -1,6 +1,73 @@
+html {}
+
 body {
-	text-align: left;
-	font-family: Verdana, sans-serif;
+		/*position: relative;
+		margin: auto;
+		 
+		min-width: 80%; */
+		
+		box-sizing: border-box;
+
+		margin: 2% 2% 2% 2%;  
+		
+		font-family: Courier New,monospace;
+		font-size: 22px;
+		color: GhostWhite;
+		text-shadow: -1px 0 0 black, 0 1px 0 black, 1px 0 0 black, 0 -1px 0 black;
+		background-color: Dimgray;
+		
+		text-align: left;
+}
+
+div.otherBackground {
 	
+	background-color: Olive;
+	font-family: Georgia, Verdana, sans-serif;  
+	font-size: 24px;
+	color: LemonChiffon;
+	height: 100%;
 	
+}
+	
+.brandUse {	
+	padding: 1% 0% 1% 0%;
+	margin: 1% 0% 1% 0%;
+}
+
+span#name{
+	font-size: 29px;
+	font-weight: bold;
+	font-color: GhostWhite;
+}
+span#tagLine {
+	font-style: italic;
+	font-size: 19px;
+	padding: 2% 2% 2% 2%;
+	
+}
+
+h2#slogan{
+	font-size: 29px;
+	padding 2% 2% 2% 2%;	
+}
+
+
+ul {
+	font-color: GhostWhite;
+}
+
+li {
+	font-color: GhostWhite;
+}
+
+a:link, a:visited, nav {
+	color: GhostWhite;
+	font-family: Tacoma, Georgia, sans-serif;
+	font-weight: bold;
+}
+
+
+
+dt.brandUse {
+	font-weight: bold;
 }

@@ -1,0 +1,51 @@
+/*
+img.otherBackground {
+	float: right;
+	display: block;
+	flex-wrap: nowrap;
+	margin: auto;
+	position: relative;
+}
+img{
+	float: right;
+	position: relative;	
+} */
+
+p.name {
+	padding: 0 0 0 0;
+}
+
+
+
+.flex-container {
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	align-items: stretch;
+	background-color: Olive;
+	width: 70%;
+
+	
+	
+}
+
+.flex-container .two-box {
+
+	font-size: 29px; 
+	align-items: stretch;
+	justify-content: center;
+	padding: 2% 2% 2% 2%;
+	justify-content: center;
+}
+
+
+.two-box {
+	
+}
+
+#box1 {
+	width:60%;
+}
+#box2 {
+	width:40%;
+}
