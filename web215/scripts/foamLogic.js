@@ -7,6 +7,9 @@ document.getElementById('profileBox').defaultValue=profile;
 console.log('success');
 }
 
+function clearBox(id){
+    document.getElementById('profileBox').value= '';
+}
 
 profileLoad();
 
