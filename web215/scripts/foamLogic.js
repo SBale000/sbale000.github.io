@@ -9,6 +9,7 @@ console.log('success');
 
 function clearBox(id){
     document.getElementById('profileBox').value= '';
+    document.getElementById('textBoxId').value= '';
 }
 
 profileLoad();
